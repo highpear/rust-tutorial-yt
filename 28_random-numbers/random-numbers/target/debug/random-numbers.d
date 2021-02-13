@@ -1,0 +1,1 @@
+/mnt/c/Users/highp/OneDrive\ -\ Ibaraki\ University/デスクトップ/rust-tutorial-yt/28_random-numbers/random-numbers/target/debug/random-numbers: /mnt/c/Users/highp/OneDrive\ -\ Ibaraki\ University/デスクトップ/rust-tutorial-yt/28_random-numbers/random-numbers/src/main.rs
