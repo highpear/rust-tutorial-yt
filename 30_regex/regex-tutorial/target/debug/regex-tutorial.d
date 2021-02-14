@@ -1,0 +1,1 @@
+/mnt/c/Users/highp/OneDrive\ -\ Ibaraki\ University/デスクトップ/rust-tutorial-yt/30_regex/regex-tutorial/target/debug/regex-tutorial: /mnt/c/Users/highp/OneDrive\ -\ Ibaraki\ University/デスクトップ/rust-tutorial-yt/30_regex/regex-tutorial/src/main.rs
